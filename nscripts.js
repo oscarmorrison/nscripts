@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 const chalk = require('chalk');
 const dir = process.cwd()+'/package.json';
 let packageJSON;
