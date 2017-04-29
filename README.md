@@ -7,7 +7,7 @@ npm i nscripts -g
 ```
 
 ## usage
-just run ns, or nscripts from any dir that has a package.json,
+just run ns from any dir that has a package.json,
 this will print out all `scripts` in your `package.json `.
 ```
 ns
