@@ -1,0 +1,14 @@
+{
+  "name": "nscripts",
+  "version": "1.0.0",
+  "description": "simlple application to display all npm scripts. just run ns from root dir",
+  "main": "nscripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "oscarmorrison",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
