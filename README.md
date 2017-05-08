@@ -1,6 +1,7 @@
 # nScripts
+[![NPM](https://nodei.co/npm/nscripts.png)](https://npmjs.org/package/nscripts)   
+
 [![npm version](https://badge.fury.io/js/nscripts.svg)](https://badge.fury.io/js/nscripts)
-[![NPM](https://nodei.co/npm/nscripts.png)](https://npmjs.org/package/nscripts)
 
 
 a super simple, pretty way to print out all the scripts in your package.json
