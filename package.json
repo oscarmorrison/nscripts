@@ -1,6 +1,6 @@
 {
     "name": "nscripts",
-    "version": "1.0.2",
+    "version": "1.1.4",
     "description": "simlple application to display all npm scripts. just run ns from root dir",
     "main": "nscripts.js",
     "scripts": {
