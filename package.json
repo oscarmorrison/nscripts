@@ -1,15 +1,19 @@
 {
     "name": "nscripts",
-    "version": "1.1.4",
+    "version": "1.1.5",
     "description": "simlple application to display all npm scripts. just run ns from root dir",
-    "keywords": ["package.json", "scripts", "command-line"],
+    "keywords": [
+        "package.json",
+        "scripts",
+        "command-line"
+    ],
     "main": "nscripts.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "engines": {
-    "node": "^8.0.0"
-  },
+        "node": "^8.0.0"
+    },
     "author": "oscarmorrison",
     "license": "MIT",
     "dependencies": {
