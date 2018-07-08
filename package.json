@@ -2,6 +2,7 @@
     "name": "nscripts",
     "version": "1.1.4",
     "description": "simlple application to display all npm scripts. just run ns from root dir",
+    "keywords": ["package.json", "scripts", "command-line"],
     "main": "nscripts.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
