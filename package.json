@@ -9,7 +9,7 @@
     "author": "oscarmorrison",
     "license": "MIT",
     "dependencies": {
-        "chalk": "^1.1.3"
+        "chalk": "^1.1.4"
     },
     "preferGlobal": "true",
     "bin": {
