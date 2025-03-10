@@ -1,22 +1,25 @@
 {
     "name": "nscripts",
-    "version": "1.1.6",
-    "description": "simlple application to display all npm scripts. just run ns from root dir",
+    "version": "1.2.0",
+    "description": "Simple application to display all npm scripts. Just run 'ns' from root dir",
     "keywords": [
         "package.json",
         "scripts",
-        "command-line"
+        "command-line",
+        "npm-scripts",
+        "cli"
     ],
     "main": "nscripts.js",
     "engines": {
-        "node": "^8.0.0"
+        "node": ">=16.0.0"
     },
     "author": "oscarmorrison",
     "license": "MIT",
     "dependencies": {
-        "chalk": "^2.4.1"
+        "chalk": "^5.3.0"
     },
-    "preferGlobal": "true",
+    "type": "module",
+    "preferGlobal": true,
     "bin": {
         "ns": "nscripts.js"
     },
